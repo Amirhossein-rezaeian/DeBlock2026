@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software record."
+title: "Blockchain-Anchored Data Continuity for Smart-City Digital Twins: A Dual-State Verification Framework"
+authors:
+  - family-names: "Rezaeian"
+    given-names: "Amirhossein"
+    orcid: "https://orcid.org/0009-0009-4398-1703"
+version: "1.0.0"
+doi: "10.5281/zenodo.24319719"
+url: "https://doi.org/10.5281/zenodo.24319719"
